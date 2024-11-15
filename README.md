@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ehsan
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML & Python
 - ⚡ Fun fact: There are More than 700 Coding Languages.
