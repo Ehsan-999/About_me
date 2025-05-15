@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
-<h3 align="center">🚀 A Passionate Developer on a Journey</h3>
+<h3 align="center">🚀 A Passionate Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=I+Love+Learning!;C%23+%7C+Python+%7C+JavaScript+#" alt="Typing SVG" />
