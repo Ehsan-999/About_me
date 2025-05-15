@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ehsan-999/ehsan-999/main/Its-Time-To-Program-Something.jpg" alt="Header Image" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">🚀 A Passionate Developer on a Journey</h3>
 
