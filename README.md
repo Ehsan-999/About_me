@@ -13,7 +13,6 @@
 
 - 🌱 I’m currently learning **C# & Python**
 - 💬 Ask me about **Web, Desktop, or Scripting Development**
-- 🎯 Goals for 2025: **Build a SaaS Project** and **Contribute to Open Source**
 - ⚡ Fun fact: *There are more than 700 coding languages!*
 
 ---
