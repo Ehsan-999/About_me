@@ -11,7 +11,7 @@
 
 ---
 
-- 🌱 I’m currently learning **C# & Python**
+- 🌱 I’m currently learning **C# & Js**
 - 💬 Ask me about **Web, Desktop, or Scripting Development**
 - ⚡ Fun fact: *There are more than 700 coding languages!*
 
